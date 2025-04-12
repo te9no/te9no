@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 	<img src = "https://komarev.com/ghpvc/?username=te9no&style=plastic&color=blueviolet" alt = "Profile Views"/>
 </p>
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/te9no/snk/blob/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
 </p>
 
 <div align="center">
