@@ -30,7 +30,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 <details>
-<summary>## ⌨ Keyboards</summary>
+<summary>
+## ⌨ Keyboards
+</summary>
 - Geacon
 <img src="gallery/geacon.jpg" alt="geacon">
 
