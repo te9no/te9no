@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 ## ⌨ Keyboards
 - Geacon
 <img src="gallery/geacon.jpg" alt="geacon">
+
 - Title72
 <img src="gallery/title72.jpg" alt="title72">
+
 - Solkatstice
 <img src="gallery/solkatstice.jpg" alt="solkatstice">
 
