@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 - [Geaconについて](https://zenn.dev/te9no/articles/3cc824385eb916)
 <!-- BLOG-POST-LIST:END -->
 
-## ⌨ Keyboards
+<details>
+<summary>## ⌨ Keyboards</summary>
 - Geacon
 <img src="gallery/geacon.jpg" alt="geacon">
 
@@ -38,5 +39,4 @@ Here are some ideas to get you started:
 
 - Solkatstice
 <img src="gallery/solkatstice.jpg" alt="solkatstice">
-
-<div align="center">
+</details>
