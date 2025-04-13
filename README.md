@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/te9no/te9no/master/img/snake.svg">
 </picture>
 
-- 📚 Zenn
+## 📚 Zenn
 <!-- BLOG-POST-LIST:START -->
 - [Solkatsticeについて](https://zenn.dev/te9no/articles/8d023885de4e28)
 - [Geaconについて](https://zenn.dev/te9no/articles/3cc824385eb916)
