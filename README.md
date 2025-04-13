@@ -29,10 +29,8 @@ Here are some ideas to get you started:
 - [Geaconについて](https://zenn.dev/te9no/articles/3cc824385eb916)
 <!-- BLOG-POST-LIST:END -->
 
-<details>
-<summary>
 ## ⌨ Keyboards
-</summary>
+<details>
 - Geacon
 <img src="gallery/geacon.jpg" alt="geacon">
 
