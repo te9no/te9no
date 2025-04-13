@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 <div class="image-slider">
-    <img src="gallary/geacon.jpg" alt="geacon">
-    <img src="gallary/title72.jpg" alt="title72">
-    <img src="gallary/solkatstice.jpg" alt="solkatstice">
+    <img src="gallery/geacon.jpg" alt="geacon">
+    <img src="gallery/title72.jpg" alt="title72">
+    <img src="gallery/solkatstice.jpg" alt="solkatstice">
 </div>
 <script src="scripts.js"></script>
 
