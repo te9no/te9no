@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 - [Geaconについて](https://zenn.dev/te9no/articles/3cc824385eb916)
 <!-- BLOG-POST-LIST:END -->
 
+## ![plot](./img/title.svg)
 <div class="image-slider">
       <style>
         /* styles.css */
