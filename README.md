@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 - 📚 Zenn
 <!-- BLOG-POST-LIST:START -->
+- [Solkatsticeについて](https://zenn.dev/te9no/articles/8d023885de4e28)
+- [Geaconについて](https://zenn.dev/te9no/articles/3cc824385eb916)
 <!-- BLOG-POST-LIST:END -->
 
 <div align="center">
