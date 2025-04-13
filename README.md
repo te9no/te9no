@@ -29,11 +29,12 @@ Here are some ideas to get you started:
 - [Geaconについて](https://zenn.dev/te9no/articles/3cc824385eb916)
 <!-- BLOG-POST-LIST:END -->
 
-## ![plot](./img/title.svg)
-<div class="image-slider">
-    <img src="gallery/geacon.jpg" alt="geacon">
-    <img src="gallery/title72.jpg" alt="title72">
-    <img src="gallery/solkatstice.jpg" alt="solkatstice">
-</div>
+## ⌨ Keyboards
+- Geacon
+<img src="gallery/geacon.jpg" alt="geacon">
+- Title72
+<img src="gallery/title72.jpg" alt="title72">
+- Solkatstice
+<img src="gallery/solkatstice.jpg" alt="solkatstice">
 
 <div align="center">
