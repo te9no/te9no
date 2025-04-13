@@ -29,4 +29,11 @@ Here are some ideas to get you started:
 - [Geaconについて](https://zenn.dev/te9no/articles/3cc824385eb916)
 <!-- BLOG-POST-LIST:END -->
 
+<div class="image-slider">
+    <img src="gallary/geacon.jpg" alt="geacon">
+    <img src="gallary/title72.jpg" alt="title72">
+    <img src="gallary/solkatstice.jpg" alt="solkatstice">
+</div>
+<script src="scripts.js"></script>
+
 <div align="center">
