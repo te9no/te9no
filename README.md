@@ -35,6 +35,5 @@ Here are some ideas to get you started:
     <img src="gallery/title72.jpg" alt="title72">
     <img src="gallery/solkatstice.jpg" alt="solkatstice">
 </div>
-<script src="scripts.js"></script>
 
 <div align="center">
