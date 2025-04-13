@@ -30,6 +30,27 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 <div class="image-slider">
+      <style>
+        /* styles.css */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .image-slider {
+            display: flex;
+            overflow-x: auto;
+            scroll-snap-type: x mandatory;
+        }
+
+        .image-slider img {
+            scroll-snap-align: start;
+            width: 300px; /* 画像の横幅を調整 */
+            height: auto; /* 自動で高さを調整 */
+            margin-right: 10px;
+        }
+      </style>
     <img src="gallery/geacon.jpg" alt="geacon">
     <img src="gallery/title72.jpg" alt="title72">
     <img src="gallery/solkatstice.jpg" alt="solkatstice">
