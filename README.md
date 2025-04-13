@@ -37,14 +37,12 @@ Here are some ideas to get you started:
             padding: 0;
             font-family: Arial, sans-serif;
         }
-
-        .image-slider {
+        image-slider {
             display: flex;
             overflow-x: auto;
             scroll-snap-type: x mandatory;
         }
-
-        .image-slider img {
+        image-slider img {
             scroll-snap-align: start;
             width: 300px; /* 画像の横幅を調整 */
             height: auto; /* 自動で高さを調整 */
