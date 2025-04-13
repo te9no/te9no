@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ## ⌨ Keyboards
 <details>
+
 - Geacon
 <img src="gallery/geacon.jpg" alt="geacon">
 
@@ -39,4 +40,5 @@ Here are some ideas to get you started:
 
 - Solkatstice
 <img src="gallery/solkatstice.jpg" alt="solkatstice">
+
 </details>
