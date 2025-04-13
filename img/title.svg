@@ -11,7 +11,25 @@
           dominant-baseline: middle;
           font-size: 24px;
         }
+        /* styles.css */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
 
+        .image-slider {
+            display: flex;
+            overflow-x: auto;
+            scroll-snap-type: x mandatory;
+        }
+
+        .image-slider img {
+            scroll-snap-align: start;
+            width: 300px; /* 画像の横幅を調整 */
+            height: auto; /* 自動で高さを調整 */
+            margin-right: 10px;
+        }
     </style>
 
     <g class="title">
