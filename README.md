@@ -42,3 +42,7 @@ Here are some ideas to get you started:
 <img src="gallery/solkatstice.jpg" alt="solkatstice">
 
 </details>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=te9no&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=te9no&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<img src="https://github-profile-trophy.vercel.app/?username=te9no&theme=juicyfresh&no-bg=true" />
