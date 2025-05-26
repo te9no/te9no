@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## 📚 Zenn
 <!-- BLOG-POST-LIST:START -->
+- [GeaconSolsticeについての補記](https://zenn.dev/te9no/articles/fc5927dfc01295)
 - [keycap_generator by malayan_tapir使ってみた](https://zenn.dev/te9no/articles/ff396c276070b2)
 - [Farcaressについて](https://zenn.dev/te9no/articles/a836dab8fc7096)
 - [GeaconSolsticeについて](https://zenn.dev/te9no/articles/bfc6c7e9082aa7)
 - [Solkatsticeについて](https://zenn.dev/te9no/articles/8d023885de4e28)
-- [Geaconについて](https://zenn.dev/te9no/articles/3cc824385eb916)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⌨ Keyboards
