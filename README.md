@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 
 ## 🛠️ App
 - [KeymapViewer](https://keymap-viewer-test.netlify.app/)
+- [USB Serial Monitor-ish](https://usbserialmonitorish.netlify.app/)
 
 ## ⌨ Keyboards
 <details>
