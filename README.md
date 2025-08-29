@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## 📚 Zenn
 <!-- BLOG-POST-LIST:START -->
+- [MeKaBuキーボード開発記 - 一人のメンバーが語る挑戦と挫折の物語](https://zenn.dev/te9no/articles/6e675b58869dd6)
 - [転売をテーマにしたボードゲームを作ってみた話](https://zenn.dev/te9no/articles/78d75fec759bcc)
 - [別紙：Farcaress: Futhesia Parasitic Module - ファルカレス: 寄生型モジュール](https://zenn.dev/te9no/articles/f1205761056a4e)
 - [GeaconSolsticeについての補記](https://zenn.dev/te9no/articles/fc5927dfc01295)
 - [keycap_generator by malayan_tapir使ってみた](https://zenn.dev/te9no/articles/ff396c276070b2)
-- [Farcaressについて](https://zenn.dev/te9no/articles/a836dab8fc7096)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ App
