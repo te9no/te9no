@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 ## 📚 Zenn
 <!-- BLOG-POST-LIST:START -->
+- [SparAkasha — Split into the Lotus.](https://zenn.dev/te9no/articles/c1ca8fad8f47f6)
 - [天下一キーボードわいわい会 Vol.9 見聞録 — 「共鳴層にて」](https://zenn.dev/te9no/articles/6b358b34c878d2)
 - [MeKaBu販売の舞台裏 ―― 誰も知らない泥臭い話](https://zenn.dev/te9no/articles/6c22558190ddd5)
 - [MeKaBuの始まりと終わりとこれから](https://zenn.dev/te9no/articles/97f50f463a7a7d)
 - [MeKaBuキーボード開発記 - 一人のメンバーが語る挑戦と挫折の物語](https://zenn.dev/te9no/articles/6e675b58869dd6)
-- [転売をテーマにしたボードゲームを作ってみた話](https://zenn.dev/te9no/articles/78d75fec759bcc)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ App
