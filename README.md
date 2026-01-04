@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - [Solstice至話から分割界へ──そして、なれはてぷれいぐらうんどの現在](https://zenn.dev/te9no/articles/d1878ae36aaf26)
 - [SparAkasha — Split into the Lotus.](https://zenn.dev/te9no/articles/c1ca8fad8f47f6)
 - [天下一キーボードわいわい会 Vol.9 見聞録 — 「共鳴層にて」](https://zenn.dev/te9no/articles/6b358b34c878d2)
-- [MeKaBu販売の舞台裏 ―― 誰も知らない泥臭い話](https://zenn.dev/te9no/articles/6c22558190ddd5)
-- [MeKaBuの始まりと終わりとこれから](https://zenn.dev/te9no/articles/97f50f463a7a7d)
+- [転売をテーマにしたボードゲームを作ってみた話](https://zenn.dev/te9no/articles/78d75fec759bcc)
+- [別紙：Farcaress: Futhesia Parasitic Module - ファルカレス: 寄生型モジュール](https://zenn.dev/te9no/articles/f1205761056a4e)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🛠️ App
